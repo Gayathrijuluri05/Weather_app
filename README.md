@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather Now - 7 Day Forecast App
 
 A React-based weather application that provides 7-day weather forecasts for any city worldwide. Built for the "Weather Now" assignment as specified in the take-home challenge.
@@ -115,3 +116,6 @@ This is a take-home assignment project. For any questions or improvements, pleas
 ## 📄 License
 
 This project is created for educational purposes as part of a take-home challenge.
+=======
+# Weather_app
+>>>>>>> 46a585c9f962d18cf81b56d50aa3cf1e2090574a
